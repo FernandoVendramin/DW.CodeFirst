@@ -1,0 +1,12 @@
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\bin\Debug\DW.CodeFirst.Data.dll.config
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\bin\Debug\DW.CodeFirst.Data.dll
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\bin\Debug\DW.CodeFirst.Data.pdb
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\bin\Debug\EntityFramework.dll
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\bin\Debug\EntityFramework.xml
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\obj\Debug\DW.CodeFirst.Data.csprojResolveAssemblyReference.cache
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\obj\Debug\DW.CodeFirst.Data.dll
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\obj\Debug\DW.CodeFirst.Data.pdb
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\obj\Debug\DW.CodeFirst.Data.Migrations.first.resources
+C:\temp\DW.CodeFirst\DW.CodeFirst.ConsoleApplication\DW.CodeFirst.Data\obj\Debug\DW.CodeFirst.Data.csproj.GenerateResource.Cache
